@@ -167,4 +167,4 @@ getProducts(): Observable<Product[]> {
   }
 ```
 
-![Error Msg](/assets/images/error.jpg)
+![Error Msg](src/assets/images/error.jpg)
