@@ -12,7 +12,7 @@ import { SupplierService } from '../suppliers/supplier.service';
   providedIn: 'root'
 })
 export class ProductService {
-  private productsUrl = 'api/productsBadUrl';
+  private productsUrl = 'api/products';
   private suppliersUrl = this.supplierService.suppliersUrl;
 
   constructor(private http: HttpClient,
