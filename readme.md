@@ -168,3 +168,5 @@ getProducts(): Observable<Product[]> {
 ```
 
 ![User Error Msg.](src/assets/images/error.jpg)
+
+## Kanban Task #6: Mapping Return Data
